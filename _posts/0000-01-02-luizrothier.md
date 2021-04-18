@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+[Google](www.google.com.br)
 Use the left arrow to go back!
